@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 -Wall -Wextra -Wformat=2 -Wcast-qual -Wcast-align -Wwrite-strings -Wfloat-equal -Wpointer-arith -O3 -DNDEBUG -march=native -rdynamic CMakeFiles/fp_tower_test.dir/test/fp_tower_test.cpp.o -o bin/fp_tower_test  -Wl,-rpath,/home/zippy001/go/src/github.com/harmony-one/mcl/build/lib lib/libmcl.so -lgmp -lgmpxx -lcrypto 

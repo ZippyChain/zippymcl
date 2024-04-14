@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 -Wall -Wextra -Wformat=2 -Wcast-qual -Wcast-align -Wwrite-strings -Wfloat-equal -Wpointer-arith -O3 -DNDEBUG -march=native -rdynamic CMakeFiles/ec_test.dir/test/ec_test.cpp.o -o bin/ec_test  -Wl,-rpath,/home/zippy001/go/src/github.com/harmony-one/mcl/build/lib lib/libmcl.so -lgmp -lgmpxx -lcrypto 
